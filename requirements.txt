@@ -1,7 +1,9 @@
 <<<<<<< HEAD
 # requirements.txt
 flask
+gunicorm
 =======
 # requirements.txt
 flask
+gunicorm
 >>>>>>> 1ac7977d3eff4eea2e907ecf3d2c5726c5d0c638
