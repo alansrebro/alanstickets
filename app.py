@@ -1,3 +1,19 @@
+<<<<<<< HEAD
+
+# app.py
+
+from flask import Flask
+
+app = Flask(__name__)
+
+@app.route("/")
+def home():
+    return "Alan's tickets!"
+
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=8000)
+
+=======
 
 # app.py
 
@@ -12,3 +28,4 @@ def home():
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8000)
 
+>>>>>>> 1ac7977d3eff4eea2e907ecf3d2c5726c5d0c638

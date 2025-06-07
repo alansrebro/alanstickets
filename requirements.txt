@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 # requirements.txt
 flask
+=======
+# requirements.txt
+flask
+>>>>>>> 1ac7977d3eff4eea2e907ecf3d2c5726c5d0c638
